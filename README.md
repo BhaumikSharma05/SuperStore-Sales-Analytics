@@ -19,11 +19,11 @@ This project analyzes sales performance using Excel and Power BI to uncover tren
 - Regional analysis shows highest sales in the North region.
 
 ## 📸 Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](images/Dashboard_preview.png)
 
 ## 🏁 How to View
 1. Download Sales_Dashboard.xlsx or open the .pbix file in Power BI Desktop.
 2. For Tableau dashboard, open Tableau_Dashboard.twbx in Tableau Desktop.
 
 ## 📧 Contact
-Created by [Your Name](https://github.com/yourusername)
+Created by Bhaumik Sharma(https://github.com/BhaumikSharma05)
