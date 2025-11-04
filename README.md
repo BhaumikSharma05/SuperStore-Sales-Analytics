@@ -1,32 +1,29 @@
-🏪 Superstore Sales Analysis — SQL & Power BI Project
-📊 Project Overview
+# 📊 Sales Analytics Dashboard
 
-This project showcases an end-to-end data analytics solution designed to explore, clean, and visualize sales data from a Superstore dataset containing over 9,800 records.
-Using Excel, MySQL, and Power BI, I developed an interactive dashboard to uncover actionable business insights and support data-driven decision-making.
+## 🧠 Overview
+This project analyzes sales performance using Excel and Power BI to uncover trends, identify key customers, and forecast revenue.
 
-🚀 Key Highlights
+## 🗂 Contents
+- data/: Raw and cleaned datasets used for analysis.
+- dashboard/: Interactive dashboards (Excel, Power BI).
+- images/: Dashboard screenshots for preview.
 
-Tech Stack: Excel | MySQL | Power BI | DAX
+## 🧩 Tools Used
+- Microsoft Excel
+- Power BI
+- Tableau (for visualization in another project)
 
-Dataset Size: 9,800+ rows
+## 🚀 Insights
+- Increased sales by 20% in Q3.
+- Top-performing product category: Electronics.
+- Regional analysis shows highest sales in the North region.
 
-Objective: Transform raw sales data into meaningful insights for performance optimization
+## 📸 Preview
+![Dashboard Screenshot](images/dashboard_preview.png)
 
-🧩 Project Workflow
-1. Data Preparation (Excel & MySQL)
+## 🏁 How to View
+1. Download Sales_Dashboard.xlsx or open the .pbix file in Power BI Desktop.
+2. For Tableau dashboard, open Tableau_Dashboard.twbx in Tableau Desktop.
 
-Imported and explored the raw Superstore dataset
-
-Performed data cleaning and schema design in MySQL
-
-Executed SQL queries for:
-
-Handling missing values
-
-Aggregating regional and category performance
-
-Identifying top customers and seasonal sales trends
-
-2. Data Analysis (SQL)
-
-Used SQL for analytical queries, such as:
+## 📧 Contact
+Created by [Your Name](https://github.com/yourusername)
